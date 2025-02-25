@@ -1,7 +1,8 @@
 # Laravel Toronto meet-up, Mar 27/2025
 <br>
 
-- xx
+- food & beverages sponsored by [Vetster.com](https://vetster.com) [Google Map](https://maps.app.goo.gl/eEqA4F8LPNsi5nqZA)
+- Thank you to Tolga Ercan, and to everyone at Vetster, for making this meet-up happen!
 
 ##
 Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/306332169/](https://www.meetup.com/laravel-toronto/events/306332169/)
@@ -9,7 +10,11 @@ Meetup.com listing: [https://www.meetup.com/laravel-toronto/events/306332169/](h
 ##
 We have confirmed the re-scheduling of Chris Sevilleja's Laravel Cloud demo + Q&A for March 27th.
 
-This meet-up will be in-person or online only -- TBD.
+This will be along the lines as we did with our November meet-up with Jess Archer for Laravel's Nightwatch.  
+
+A very special thank you to Taylor and the Laravel Cloud team for making this happen. 
+
+Although this meet-up is in-person only, Chris will join us remotely. 
 
 Schedule:
 
