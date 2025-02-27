@@ -28,3 +28,5 @@ Note-able Links:
 - [original meet-up @ meetup.com](https://www.meetup.com/laravel-toronto/events/303470963/)
 - [original meet-up @ this GH Org](https://github.com/local-toronto-php-groups/2025feb13_meetup_laravel_toronto/)
 - [(YouTube) Getting Started with Laravel Cloud -- by Chris!](https://www.youtube.com/watch?v=cXVVoaekqT8)
+- [(YouTube) Laravel Worldwide Meetup - Building Laravel Cloud --> Joe Nixon goes under-the-hood](https://www.youtube.com/live/PmKt3xmAQz0)
+- [{YouTube} Laravel Cloud AMA w/ Joe Dixon](https://www.youtube.com/live/LmuHwEyKTNU)
