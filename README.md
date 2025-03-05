@@ -30,3 +30,4 @@ Note-able Links:
 - [(YouTube) Getting Started with Laravel Cloud -- by Chris!](https://www.youtube.com/watch?v=cXVVoaekqT8)
 - [(YouTube) Laravel Worldwide Meetup - Building Laravel Cloud --> Joe Nixon goes under-the-hood](https://www.youtube.com/live/PmKt3xmAQz0)
 - [{YouTube} Laravel Cloud AMA w/ Joe Dixon](https://www.youtube.com/live/LmuHwEyKTNU)
+- [{YouTube} Launching a site in one day... WITH PHP? By "ThePrimeTime", with Taylor --> 8 friggin' hours!](https://www.youtube.com/watch?v=a1cWkClBXLI)
