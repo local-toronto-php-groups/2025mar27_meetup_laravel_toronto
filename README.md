@@ -32,6 +32,7 @@ Note-able Links:
 - [{YouTube} Laravel Cloud AMA w/ Joe Dixon](https://www.youtube.com/live/LmuHwEyKTNU)
 - [{YouTube} Launching a site in one day... WITH PHP? By "ThePrimeTime", with Taylor --> 8 friggin' hours!](https://www.youtube.com/watch?v=a1cWkClBXLI)
 - [{YouTube} 5 Tips to Save Money on Laravel Cloud](https://www.youtube.com/watch?v=jM7VZRXgYXE)
+- [{YouTube} Taylor Otwell's thoughts on funding](https://www.youtube.com/watch?v=HhdCl9XV4aM)
 
 ##
 ![Meet-up is in the conference room](/IMG_0224.png)
