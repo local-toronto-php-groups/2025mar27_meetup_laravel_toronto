@@ -31,3 +31,15 @@ Note-able Links:
 - [(YouTube) Laravel Worldwide Meetup - Building Laravel Cloud --> Joe Nixon goes under-the-hood](https://www.youtube.com/live/PmKt3xmAQz0)
 - [{YouTube} Laravel Cloud AMA w/ Joe Dixon](https://www.youtube.com/live/LmuHwEyKTNU)
 - [{YouTube} Launching a site in one day... WITH PHP? By "ThePrimeTime", with Taylor --> 8 friggin' hours!](https://www.youtube.com/watch?v=a1cWkClBXLI)
+
+
+![Meet-up is in the conference room](/IMG_0224.png)
+![Setting up](/IMG_0223.png)
+![Welcome to Vetster!](/IMG_0222.png)
+![Welcome to Vetster!](/IMG_0221.png)
+![Thank you, Vetster, for posting this sign!](/IMG_0220.png)
+![Historic train station is a huge LCBO (liquor store)](/IMG_0219.png)
+![Condo under construction to be tallest building in Canada](/IMG_0217.png)
+![Looking south on Yonge](/IMG_0215.png)
+![Right on the subway!](/IMG_0214.png)
+
