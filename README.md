@@ -31,8 +31,15 @@ Note-able Links:
 - [(YouTube) Laravel Worldwide Meetup - Building Laravel Cloud --> Joe Nixon goes under-the-hood](https://www.youtube.com/live/PmKt3xmAQz0)
 - [{YouTube} Laravel Cloud AMA w/ Joe Dixon](https://www.youtube.com/live/LmuHwEyKTNU)
 - [{YouTube} Launching a site in one day... WITH PHP? By "ThePrimeTime", with Taylor --> 8 friggin' hours!](https://www.youtube.com/watch?v=a1cWkClBXLI)
+
+Chris published this the day after our meet-up:
 - [{YouTube} 5 Tips to Save Money on Laravel Cloud](https://www.youtube.com/watch?v=jM7VZRXgYXE)
+
+Chris emailed me this link in response to a question at the meet-up:
 - [{YouTube} Taylor Otwell's thoughts on funding](https://www.youtube.com/watch?v=HhdCl9XV4aM)
+
+It is almost a week after the meet-up, and I just watched this video. And, read the comments:
+- [{YouTube} I got my first Laravel Cloud Invoice... - Laravel Daily](https://www.youtube.com/watch?v=9Q9sW8oFvSM)
 
 ##
 ![Meet-up is in the conference room](/IMG_0224.png)
